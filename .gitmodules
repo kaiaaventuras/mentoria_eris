@@ -1,3 +1,6 @@
 [submodule "kaia55"]
 	path = kaia55
 	url = https://github.com/kaiaaventuras/kaia55.git
+[submodule "testezitokaia"]
+	path = testezitokaia
+	url = https://github.com/kaiaaventuras/testezitokaia.git
