@@ -1,0 +1,3 @@
+[submodule "kaia55"]
+	path = kaia55
+	url = https://github.com/kaiaaventuras/kaia55.git
